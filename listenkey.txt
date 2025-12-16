@@ -1,8 +1,7 @@
 tunzxje|https://discord.com/api/webhooks/1407943209396736050/W5WPXl4tZTXF0xpT2xBK48wrN0MhzJoTsa_XwIuPmSUan29ibALYWriGB2r0KoLfmSh-
-dung|https://discord.com/api/webhooks/1412114811587661824/LHulbFbIgfyR2mv2K25QrUOVQ2EB4UuMcqHL9DIqlAfmpua65Rzh63xro5LjJaR0Vi6N
 ducanh88|https://discord.com/api/webhooks/1407942963543408723/pawVcoC_W4nxldf37H_TWpgQ0yOg98skDDPjviWCZsGBKtEE3hfZ-4JeGKOihRtHsAEG
 cuongnguyen|https://discord.com/api/webhooks/1407943114362060931/AcNZvnazo-JtSWJgcx4odfyJroVIkS4PZ2fbYxUNr0m0MR3ByIjYf382weHXdwEuJsgF
 achinh|https://discord.com/api/webhooks/1407987755958403124/yz3_RljI92s6tFTB4ONDAj8jn-IW3FYJ8DHTPHQuwNushQYeZbfRy6umPPjlY4GWnJ73
 luxury|https://discord.com/api/webhooks/1407994975563550750/8-Q4IIGko5ml1W9RmjooCpFhWvwZTuoO7_ww1dufMlkdIMkEBz6_THv_q-71Y5cNRI6B
 huyduclo|https://discord.com/api/webhooks/1408067090967040031/sKY1m47LZnJRcWiadRacnRdMem2eydGQ-YTJbUFejBTsUOpGGprqcS9UBy9Dl4QEEzVX
-khanhtoan|https://discord.com/api/webhooks/1413170441912193086/63u982_FLtiLSkv5ZohwCQLCDx6xg-1M8yb2sOTxJFXOg_nOVxvftF7ewkavIdS5ioqO
+
